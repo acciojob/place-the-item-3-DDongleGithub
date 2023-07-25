@@ -1,2 +1,19 @@
-
+.holder{
+	display: flex;
+	flex-direction:row;
+	justify-content: space-between;
+/* 	justify-content: center; */
+/* 	align-items: center; */
+	
+}
+.item-1{
+	width: 100px;
+	height: 100px;
+	border: solid 2px red;
+	display: flex;
+	color: black;
+	background-color: green;
+/* 	justify-content: center; */
+}
+/* Your CSS Code here. */
 /* Your CSS Code here. */
